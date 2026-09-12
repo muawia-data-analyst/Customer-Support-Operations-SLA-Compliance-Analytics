@@ -25,7 +25,6 @@ Support operations teams are measured on how consistently they meet promised res
 - A 3-page interactive Power BI dashboard: Executive Summary, Team & Agent Performance, and Category & Channel Analysis
 - Drill-down analysis identifying a specific underperforming agent and the operational pattern behind it
 - Ad hoc analysis identifying the highest and lowest SLA-compliant Category-Priority combinations
-- A validated Excel-to-Power BI discrepancy: identified and corrected a DAX measure that handled blank values differently than Excel, which was silently inflating the calculated SLA compliance rate
 - Documented findings and actionable recommendations for management
 
 ## Files in This Repository
