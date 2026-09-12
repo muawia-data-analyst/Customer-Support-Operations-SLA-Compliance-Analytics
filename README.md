@@ -1,4 +1,4 @@
-# Customer Support Operations — SLA Compliance Analytics
+# Customer Support Operations, SLA Compliance Analytics
 
 ## Overview
 An Operations Analyst project analyzing customer support ticket performance, focused on SLA compliance, escalation trends, and service desk efficiency. Built using Microsoft Excel and Power BI, covering the full analytical lifecycle from raw data cleaning through executive-ready dashboarding.
